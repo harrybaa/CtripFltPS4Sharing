@@ -15,3 +15,13 @@
 | 真三国无双 (C.N.)  | Available  |
 | Monst Hunter World (H.K.)  | Playing  |
 | God of War (H.K.)  | Playing  |
+
+
+#### Ivan Zhang
+| Name  | Status |
+| ------------- | ------------- |
+| Grand Theft Auto V (H.K.) | Available |
+| Bloodborne (H.K.) | Available |
+| FIFA 16 (H.K.) | Available | 
+| 重力异想世界 （C.N.) | Available |
+| Monst Hunter World (H.K.)  | Playing  |
